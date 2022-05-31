@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+    align-self: center;
+    background-color: rgb(36, 206, 36);
+}
+a {
+    color: rgb(0, 60, 255);
+    font-size: 50px;
+}
+h{
+    font-size: 100px;
+    color: blue;
+}
