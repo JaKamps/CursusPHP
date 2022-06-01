@@ -1,6 +1,4 @@
 *{
-    text-align: center;
-    align-self: center;
     background-color: rgb(36, 206, 36);
 }
 a {
@@ -10,4 +8,10 @@ a {
 h{
     font-size: 50px;
     color: blue;
+}
+.left {
+    align-items: left;
+}
+.right {
+    float: right;
 }
