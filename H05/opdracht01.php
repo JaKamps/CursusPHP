@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>GetDemo</h1>
-    <form action="resultaat.php" method="get">
+    <form action="processing01.php" method="get">
         <input type="text" name="inlogNaam" value="naam">
         <input type="password" name="wachtwoord" value="password">
         <input type="email" name="email" value="email">

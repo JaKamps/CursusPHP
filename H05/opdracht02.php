@@ -12,7 +12,7 @@
 </head>
 <body class="container">
     <h1>GetDemo</h1>
-    <form action="processing" method="post">
+    <form action="processing02" method="post">
         <div class="form-group">
         <label for="naam">Naam:</label>
         <input class="form-control" id="naam" type="text" name="naam">
